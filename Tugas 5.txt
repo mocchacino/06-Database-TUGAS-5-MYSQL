@@ -1,0 +1,13 @@
+1. charset : kumpulan karater yang dapat dipahami oleh komputer
+
+2. basis data
+
+3. jalankan MySQL Client > SHOW CHARACTER SET
+
+4. jalankan MySQL Client > SHOW COllATION
+
+5. INT, FLOAT, DOUBLE, DECIMAL, TINYINT
+
+6. CHAR, VARCHAR, TEXT, TINYTEXT, MEDIUMTEXT
+
+7. DATE, TIME, DATETIME
